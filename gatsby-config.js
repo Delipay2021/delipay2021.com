@@ -6,6 +6,7 @@ module.exports = {
   siteMetadata: {
     title: "デリペイのサイト",
     description: "デリペイの公式サイト",
+    siteUrl:`https://www.delipay2021.com`,
   },
   plugins: [
     {
